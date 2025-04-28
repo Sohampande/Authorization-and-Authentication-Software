@@ -1,2 +1,3 @@
-# Authorization-and-Authentication-Software
-In this project, I created a simple Python program that prompts the user for a user ID and password, then checks and informs them whether their credentials are correct or incorrect.
+# Simple Login Authentication System (Python + Tkinter)
+This project is a basic user authentication system using Python and the Tkinter library for the graphical user interface (GUI). It requires users to enter their user ID and password into text fields. After the user submits their information, the program checks if the entered credentials match the predefined valid user ID and password. Based on the result, it displays a message indicating whether the login attempt was successful or not.
+This project helped me learn the basics of GUI development with Tkinter, handling user input, and implementing simple logic for authentication.
